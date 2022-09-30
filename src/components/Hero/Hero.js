@@ -3,7 +3,7 @@ import './Hero.css'
 import heroImg from '../../images/hero-img.png'
 const Hero = () => {
     return (
-        <div className='mb-20'>
+        <div className=''>
             {/* Hero Section Design Starts */}
                 <div className="flex items-center justify-between container mx-auto">
                     <div id="hero-info" className=''>
