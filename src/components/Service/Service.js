@@ -7,7 +7,7 @@ import service4 from '../../images/service 4.png'
 
 const Service = () => {
     return (
-        <div className='pb-20 mb-20' id='service-bg'>
+        <div className='pb-20 mb-20 service-bg'>
             {/* Service Info Section Start */}
             <div className='pt-20 pb-20'>
                 <h3 className='font-bold text-2xl text-center mb-2'>Services</h3>

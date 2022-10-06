@@ -2,7 +2,8 @@ import React from 'react';
 import './Team.css'
 import member1 from '../../images/member 1.jpg'
 import member2 from '../../images/member 2.jpg'
-
+import member3 from '../../images/member 3.png'
+import member4 from '../../images/member 4.png'
 
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
@@ -64,7 +65,7 @@ const Team = () => {
                     </div>
                 </div>
                 <div id='team-card' className='w-64 relative'>
-                    <img src={member2} className='w-64' alt="" />
+                    <img src={member3} className='w-64' alt="" />
 
                     {/* Team Icon & Info */}
                     <div className='bg-white rounded w-5/6 absolute top-64 left-5 drop-shadow-xl'>
@@ -83,7 +84,7 @@ const Team = () => {
                     </div>
                 </div>
                 <div id='team-card' className='w-64 relative'>
-                    <img src={member2} className='w-64' alt="" />
+                    <img src={member4} className='w-64' alt="" />
 
                     {/* Team Icon & Info */}
                     <div className='bg-white rounded w-5/6 absolute top-64 left-5 drop-shadow-xl'>
