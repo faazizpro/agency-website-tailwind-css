@@ -27,7 +27,7 @@ const Portfolio = () => {
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed consectetur malesuada sodales enim viverra odio diam.
                         </p>
                         <button className='text-xl font-bold border-b-2 border-sky-500 pb-1 '>Read More        
-                        <ChevronRightIcon className="h-6 w-6 inline text-blue-500"/>
+                        <ChevronRightIcon className="h-6 w-6 inline text-black font-bold"/>
                         </button>
                     </div>
                 </div>
@@ -39,7 +39,7 @@ const Portfolio = () => {
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed consectetur malesuada sodales enim viverra odio diam.
                         </p>
                         <button className='text-xl font-bold border-b-2 border-sky-500 pb-1 '>Read More        
-                        <ChevronRightIcon className="h-6 w-6 inline text-blue-500"/>
+                        <ChevronRightIcon className="h-6 w-6 inline text-black"/>
                         </button>
                     </div>
                 </div>
@@ -51,7 +51,7 @@ const Portfolio = () => {
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed consectetur malesuada sodales enim viverra odio diam.
                         </p>
                         <button className='text-xl font-bold border-b-2 border-sky-500 pb-1 '>Read More        
-                        <ChevronRightIcon className="h-6 w-6 inline text-blue-500"/>
+                        <ChevronRightIcon className="h-6 w-6 inline text-black"/>
                         </button>
                     </div>
                 </div>
