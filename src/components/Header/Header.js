@@ -5,7 +5,7 @@ import logo from '../../images/logo.png';
 
 const Header = () => {
     return (
-        <div className='sticky top top-0'>
+        <div className='sticky top top-0 z-50'>
             <nav className='flex justify-around items-center border-b-2 bg-white'>
                 <div className="logo flex items-center">
                     <img src={logo} alt="" />
